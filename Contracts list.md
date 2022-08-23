@@ -21,6 +21,10 @@
 
 
 <br>
+
+Contracts deployed on Optimistic can be viewed and their source code checked at https://optimistic.etherscan.io/
+
 <br>
 <br>
-## All contracts have been verified.
+
+### All contracts have been verified.
