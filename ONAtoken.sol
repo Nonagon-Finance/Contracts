@@ -2,10 +2,6 @@
  *Submitted for verification at Etherscan.io on 2022-08-12
 */
 
-/**
- *Submitted for verification at Etherscan.io on 2020-07-04
-*/
-
 // File: https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v3.1.0/contracts/GSN/Context.sol
 
 // SPDX-License-Identifier: MIT
