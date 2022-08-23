@@ -21,3 +21,10 @@ The ONA token is primarly deployed on Ethereum's mainnet, but bridged to Optimis
 | Optimism       | **Pool ONA**          | 0x58Bd1102f3dABDf95F2D5D2147F4d96Ef66973B8 |
 | Optimism       | **ONArewardsUSDC**    | 0x4b516Cd2a47AF1B1641f06E92fdfdad6CBB07c52 |
 | Optimism       | **ONArewardsETH**     | 0x3dae20351f200a95A14085499B9705cCc6f769E0 |
+
+
+<br>
+Contracts deployed on Optimistic can be viewed and their source code checked at https://optimistic.etherscan.io/
+<br>
+
+### All contracts have been verified.
