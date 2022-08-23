@@ -1,4 +1,9 @@
-
+## List of all deployed Nonagon Finance contracts
+<br>
+<br>
+The ONA token is primarly deployed on Ethereum's mainnet, but bridged to Optimism.
+<br>
+<br>
 
 |   **Network**  |   **Contract name**   |                 **Address**                |
 |:--------------:|:---------------------:|:------------------------------------------:|
